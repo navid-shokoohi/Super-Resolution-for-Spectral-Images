@@ -1,0 +1,8 @@
+name: SinSR
+full_name: Diffusion-Based Image Super-Resolution in a Single Step
+type: Diffusion-based Super-Resolution
+architecture: One-step distilled student network with deterministic sampling and consistency-preserving loss
+scale_factor: 4
+input_format: 3-channel RGB
+output_format: 3-channel RGB
+framework: PyTorch
